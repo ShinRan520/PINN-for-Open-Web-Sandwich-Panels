@@ -1,0 +1,1 @@
+# Optimization-Method-for-Open-Web-Sandwich-Panels-Based-on-Physics-Informed-Neural-Networks-
